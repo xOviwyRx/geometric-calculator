@@ -18,3 +18,7 @@ It's use PySimpleGUI as base GUI library, matplotlib as library for drawing figu
 9) Parallelepiped
 10) Pyramid
 11) Cone
+
+<img src="screenshots/rhombus_screen.png">
+<img src="screenshots/cube_screen.png">
+<img src="screenshots/cylinder_screen.png">
