@@ -19,6 +19,7 @@ It's use PySimpleGUI as base GUI library, matplotlib as library for drawing figu
 10) Pyramid
 11) Cone
 
+![cube_screenshot](screenshots/rhombus_screen.png "Cube")
 <img style="text-align:center" src="screenshots/rhombus_screen.png">
 <img style="text-align:center" src="screenshots/cube_screen.png">
 <img style="text-align:center" src="screenshots/cylinder_screen.png">
