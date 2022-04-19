@@ -19,9 +19,8 @@ It's use PySimpleGUI as base GUI library, matplotlib as library for drawing figu
 10) Pyramid
 11) Cone
 
-<div style="text-align:center; display:block">
-    <img src="screenshots/rhombus_screen.png">
-</div>
+## Examples calculating and demonstrations
 
+<img src="screenshots/rhombus_screen.png">
 <img style="text-align:center" src="screenshots/cube_screen.png">
 <img style="text-align:center" src="screenshots/cylinder_screen.png">
